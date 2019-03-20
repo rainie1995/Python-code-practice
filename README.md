@@ -1,2 +1,2 @@
-# movie-review
-爬取《流浪地球》影评信息并分析该电影的真实反响究竟如何
+# Python code practice
+python数据分析和机器学习练习
